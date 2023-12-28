@@ -5,8 +5,9 @@ Steps:
 
 Payload: <a onmouseover="alert(document.cookie)">xxs link</a>
 3. click on "Publish"
+
 4. view the post and move the curser on the executed link
 
 Xss payload got executed
 
-Plaease check the Screenshots
+Pleaase check the Screenshots
